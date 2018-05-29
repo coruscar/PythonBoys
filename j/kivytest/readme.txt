@@ -1,0 +1,1 @@
+https://kivy.org/docs/installation/installation-windows.html#install-win-dist
